@@ -3,7 +3,7 @@ body{background-color: aquamarine;
 .p1 {text-align: center;
 }
 .p1{border-style: double;
-border-color:chartreuse;
+border-color:rgb(0, 38, 255);
 border-width: 5px;}
 
 
