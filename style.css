@@ -6,8 +6,12 @@ body{background-color: black;
 border-color:rgb(0, 38, 255);
 border-width: 5px;}
 
-
-
+.p2 {text-align: center;
+}
+.p2{border-style: double;
+    border-color:rgb(0, 38, 255);
+    border-width: 5px;}
+    
 
 
 
